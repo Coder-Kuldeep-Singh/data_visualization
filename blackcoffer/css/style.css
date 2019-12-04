@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Yeon Sung', cursive;
+}
+.universal_border_radius{
+    border-radius: 5px;
+}
+.universal_margin{
+    margin:20px;
+}
+.universal_padding{
+   padding-top: 20px;
+}
+.univesal-shadow{
+    box-shadow: 2px 2px 2px #aaaaaa;
+}
+.navbar{
+    padding:10px;
+}
+.navbar-brand{
+    padding:10px;
+}
+.navbar-brand span{
+font-size:23px;
+}
+.btn{
+    background:white;
+    margin:10px;
+    font-size:14px;
+}
+.btn:hover{
+    background:#e4e7ea;
+}
+.node{
+    font-size: 23px;
+    color:#3f308a;
+}
